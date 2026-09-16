@@ -51,8 +51,27 @@ This repository contains a production-grade, highly scalable prototype developed
 *   `data_pipeline.py`: The synthetic dataset generator.
 *   `ml_engine.py`: The Tri-Modal ML analytics backend.
 *   `MoLE_Advanced_Pitch.md`: The detailed architectural pitch and future roadmap.
-*   `MoLE_Pitch.md` & `MoLE_Hackathon_Submission.md`: Draft submission documents.
-*   `*.png`: High-resolution UI captures for the presentation deck.
+*   `assets/`: High-resolution UI captures for the presentation deck.
+
+## 🖼️ Dashboard Visuals
+
+### 1. Data Integrity Radar (Explainable AI)
+![Data Integrity Radar](assets/02_Data_Integrity_Radar.png)
+
+### 2. Migration & Forecasting (Sankey Flows)
+![Migration Sankey](assets/01_Migration_Sankey.png)
+
+### 3. Skill & Wage Analytics
+![Skill & Wage Analytics](assets/04_Skill_Wage_Analytics.png)
+
+### 4. GenAI Data Chat (Live Insight)
+![GenAI Chat](assets/06_GenAI_Live_Chat.png)
+
+### 5. Edge-Compute Fallback (Resilient Architecture)
+![Edge Compute Fallback](assets/03_Edge_Compute_Fallback.png)
+
+### 6. Simulated DPI API Gateway
+![API Gateway](assets/05_DPI_API_Gateway.png)
 
 ---
 *Built for the MoLE Hackathon. Data Privacy First: All UANs and demographic data within this repository are 100% synthetically generated and do not correspond to real citizens.*
